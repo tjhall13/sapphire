@@ -1,6 +1,6 @@
 # Sapphire
 ## About
-Sapphire is a simple php web appication framework. It is based on Slim for routing and request/response handling. The MVC design is influnced on Ruby on Rails to provide a familiar "out of the box" feel to php applications that RoR enjoys.
+Sapphire is a simple php web appication framework. It is based on Slim for routing and request/response handling. The MVC design is influnced by Ruby on Rails to provide a familiar "out of the box" feel to php applications that RoR enjoys.
 
 ## Directory Structure
 Below is the files and directories you should be concerned with for basic development.
